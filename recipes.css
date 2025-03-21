@@ -1,0 +1,21 @@
+* {
+    background-color: #FCE7C8;
+}
+
+h1{
+    font-family: monospace;
+    text-align: center; 
+}
+
+.recipes{
+    display: block;
+    justify-self: center;
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: #F0A04B;
+    font-weight: bold;
+    font-size: 20px;
+}
